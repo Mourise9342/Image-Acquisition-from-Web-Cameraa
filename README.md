@@ -9,23 +9,19 @@ ii) Display the video
 iii) Display the video by resizing the window
 iv) Rotate and display the video
 
-## Software Used
+### Software Used
 Anaconda - Python 3.7
-## Algorithm
-### Step 1:
-<br>
+### Algorithm
+Step 1: Use VideoCapture(0) to access web camera
 
-### Step 2:
-<br>
+Step 2: Use imread to read the video or image
 
-### Step 3:
-<br>
+Step 3: Use imwrite to save the image
 
-### Step 4:
-<br>
+Step 4: Use imshow to show the video
 
-### Step 5:
-<br>
+Step 5: End the program and close the output video windows by pressing 'q'.
+
 
 ## Program:
 
